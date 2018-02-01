@@ -1,0 +1,5 @@
+git log --stat
+git show commitID
+git checkout commitID
+
+
